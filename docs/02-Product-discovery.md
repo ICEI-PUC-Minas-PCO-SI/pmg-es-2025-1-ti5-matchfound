@@ -8,13 +8,13 @@
 
 **✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
-> Nesta etapa, é necessário aplicar a metodologia de Design Thinking para compreender de forma mais profunda o problema a ser abordado. Durante esse processo, devem ser elaborados os seguintes elementos:
->
-> * **Matriz CSD**:  também conhecida como Matriz de Alinhamento, trata-se de uma ferramenta utilizada no Design Thinking para organizar informações, facilitando a tomada de decisões e a solução de problemas;
-> * **Mapa de stakeholders**: ferramenta que permite identificar e entender o grupo de pessoas e entidades que devem ser analisados e consultados para obter uma visão mais ampla do problema;
-> * **Entrevistas qualitativas**:
+># **Matriz CSD**:
+![CSD](images/MatrizCSD.png)
+>   
+# **Mapa de stakeholders**: 
+![Mapa](images/mapastake.png)
+# **Entrevistas qualitativas**:
 **Pessoa 1 – Julia – 21 anos**
 
 *Você tem dificuldade em achar parceiros ou grupos para jogar?*
