@@ -2,16 +2,13 @@
 # Metodologia
 
 <span style="color:red">Pré-requisitos: <a href="03-Product-design.md"> Product design</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para abordar o problema. Inclua definições sobre os ambientes de trabalho utilizados pela equipe para desenvolver o projeto. Isso abrange a relação dos ambientes utilizados, a estrutura para a gestão do código-fonte, além da definição do processo e das ferramentas por meio dos quais a equipe se organiza (gestão de equipes).
+Atraves de briefing decidimos tentar resolver um problema que muitos passam ao tentar achar parceiros para jogos. Atraves de plataformas como miro, figma, disc, começamos a debater e desenvolver o projeto.
 
 ## Relação de ambientes de trabalho
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A relação dos ambientes com seus respectivos propósitos deverá ser apresentada em uma tabela que especifique e detalhe Ambiente, Plataforma e Link de Acesso. Defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
 
 ## Controle de versão
-
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 
 A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [GitHub](https://github.com) foi utilizado para hospedagem do repositório.
 
@@ -42,15 +39,24 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ###  Divisão de papéis
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
+> A equipe utiliza o Scrum como base para definição do processo de desenvolvimento. 
 
-> A equipe utiliza o Scrum como base para definição do processo de desenvolvimento. [Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-
-- Scrum Master: nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: nome de um membro da equipe, representante dos interesses de todos os envolvidos (stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: nomes de todos os membros da equipe, pois todos os membros deverão implementar no mínimo duas telas/funcionalidades.
-- Equipe de Design: nomes dos membros da equipe que trabalharão com design.
-
+- Scrum Master: Prof. Leonardo
+- Product Owner: Prof. Leonardo
+- Equipe de Desenvolvimento:
+  Bárbara Alexandra Gomes da Silva
+  Gustavo de Oliveira Moutinho
+  João Pedro Gomes da Silva
+  Lucas Silva de Andrade
+  Pedro Henrique Alvares Amaral
+  Tiago Calazans Cruz
+- Equipe de Design:
+  Bárbara Alexandra Gomes da Silva
+  Gustavo de Oliveira Moutinho
+  João Pedro Gomes da Silva
+  Lucas Silva de Andrade
+  Pedro Henrique Alvares Amaral
+  Tiago Calazans Cruz
 > **Links úteis**:
 > - [11 passos essenciais para implantar Scrum no seu projeto](https://mindmaster.com.br/scrum-11-passos/)
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
@@ -74,7 +80,6 @@ Coloque uma imagem da estrutura da ferramenta de controle de tarefas (Kanban) e 
 
 ### Ferramentas
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 
 Liste todas as ferramentas que foram empregadas no projeto, justificando a escolha delas, sempre que possível. Inclua itens como: (1) editor de código, (2) ferramentas de comunicação, (3) ferramentas de diagramação, (4) plataformas de hospedagem, entre outras.
 
@@ -82,10 +87,10 @@ Liste todas as ferramentas que foram empregadas no projeto, justificando a escol
 
 | Ambiente                            | Plataforma                         | Link de acesso                       |
 |-------------------------------------|------------------------------------|--------------------------------------|
-| Processo de Design Thinking         | Miro                               | https://....   ⚠️ EXEMPLO ⚠️        |
-| Repositório de código fonte         | GitHub                             | https://....   ⚠️ EXEMPLO ⚠️        |
-| Documentos do projeto               | GitHub                             | http://....    ⚠️ EXEMPLO ⚠️        |
-| Gerenciamento do projeto            | GitHub Projects                    | http://....    ⚠️ EXEMPLO ⚠️        |
-| Projeto de interface                | Figma                              | http://....    ⚠️ EXEMPLO ⚠️        |
+| Processo de Design Thinking         | Miro                               | https://miro.com/app/board/uXjVITxsKsg=/       |
+| Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PCO-SI/pmg-es-2025-1-ti5-matchfound |
+| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PCO-SI/pmg-es-2025-1-ti5-matchfound     |
+| Gerenciamento do projeto            | GitHub Projects                    | https://github.com/ICEI-PUC-Minas-PCO-SI/pmg-es-2025-1-ti5-matchfound       |
+| Projeto de interface                | Figma                              | https://www.figma.com/design/AwXKNqQPB71mZQuohNbn4d/Untitled?node-id=0-1&p=f&t=SqXpetOxCVEwjkU8-0       |
 | Hospedagem                          | Vercel                             | http://....    ⚠️ EXEMPLO ⚠️        |
  
