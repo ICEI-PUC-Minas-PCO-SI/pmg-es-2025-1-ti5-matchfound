@@ -21,17 +21,26 @@ Fluxo de usuário (user flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Wireframes
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 
-São protótipos usados no design de interface para sugerir a estrutura de um site web e seu relacionamento entre suas páginas. Um wireframe web é uma ilustração que mostra o layout dos elementos fundamentais na interface.
+Tela Home:
 
-**✳️✳️✳️ COLOQUE AQUI OS PROTÓTIPOS DE TELAS COM TÍTULO E DESCRIÇÃO ✳️✳️✳️**
+![Exemplo de wireframe](images/home.png)
 
-##### TELA XPTO ⚠️ EXEMPLO ⚠️
+Tela de Cadastro:
 
-Descrição para a tela XPTO
+![Exemplo de wireframe](images/cadastro.png)
 
-![Exemplo de wireframe](images/exemplo-wireframe.png)
+Tela de Login:
+
+![Exemplo de wireframe](images/login.png)
+
+Tela Home após efetuar o login:
+
+![Exemplo de wireframe](images/home_logada.png)
+
+Tela de destaque:
+
+![Exemplo de wireframe](images/destaque.png)
 
  
 > **Links úteis**:
