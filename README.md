@@ -1,25 +1,25 @@
-# Nome do projeto
+# MatchFound
 
 `CURSO: Sistemas de Informação`
 
 `DISCIPLINA: Trabalho Interdisciplinar Aplicações Web`
 
-`Xº semestre/ANO`
+`1º semestre/2025`
 
 Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Bárbara Alexandra Gomes da Silva
+* Gustavo de Oliveira Moutinho
+* João Pedro Gomes da Silva
+* Lucas Silva de Andrade
+* Pedro Henrique Alvares Amaral
+* Tiago Calazans Cruz
 
 ## Professor
 
-* Nome completo do(a) professor(a)
+* Leonardo Vilela Cardoso
 
 ## Instruções de utilização
 
