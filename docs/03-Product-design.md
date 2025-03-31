@@ -3,10 +3,6 @@
 <span style="color:red">Pré-requisitos: <a href="02-Product-discovery.md"> Product discovery</a></span>
 
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
-
-Neste momento, transformam-se os insights e validações obtidos em soluções tangíveis e utilizáveis. Esta fase envolve a definição de uma proposta de valor, detalhando a prioridade de cada ideia, e a consequente criação de wireframes, mockups e protótipos de alta fidelidade, que especificam a interface e a experiência do usuário.
-
 
 ## Histórias de usuários
 
@@ -14,12 +10,10 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas  ⚠️ EXEMPLO ⚠️         | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões        ⚠️ EXEMPLO ⚠️         | Permitir que possam administrar contas |
-
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
-
-Apresente aqui as histórias de usuários que são relevantes para o projeto da sua solução. As histórias de usuários consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuários por contexto, para facilitar consultas recorrentes a esta parte do documento.
+|Usuário do sistema  | Função chat          | Me comunicar facilmente com outros usuários      |
+|Administrador       | Poder expulsar usuário    | Ajudar a controlar usuários tóxicos |
+|Usuário do sistema       | Variedades de jogos    | Jogos vários tipos de jogos |
+|Usuário do sistema     | Conseguir avaliar o meu oponente    | Ajudar na classificação do usuário |
 
 > **Links úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
@@ -31,15 +25,9 @@ Apresente aqui as histórias de usuários que são relevantes para o projeto da 
 
 ## Proposta de valor
 
-**✳️✳️✳️ APRESENTE O DIAGRAMA DA PROPOSTA DE VALOR PARA CADA PERSONA ✳️✳️✳️**
 
-##### Proposta para a persona XPTO ⚠️ EXEMPLO ⚠️
-
-![Exemplo de proposta de valor](images/exemplo-proposta-valor.png)
-
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> O mapa da proposta de valor é uma ferramenta que auxilia na definição do tipo de produto ou serviço que melhor atende às personas previamente estabelecidas.
+![Exemplo de proposta de valor](images/PV01.png)
+![Exemplo de proposta de valor](images/pv02.png)
 
 
 > **Links úteis**:
@@ -47,25 +35,37 @@ Apresente aqui as histórias de usuários que são relevantes para o projeto da 
 
 ## Requisitos
 
-As tabelas a seguir apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade dos requisitos, aplique uma técnica de priorização e detalhe como essa técnica foi aplicada.
 
 ### Requisitos funcionais
 
 | ID     | Descrição do Requisito                                   | Prioridade |
 | ------ | ---------------------------------------------------------- | ---------- |
-| RF-001 | Permitir que o usuário cadastre tarefas ⚠️ EXEMPLO ⚠️ | ALTA       |
-| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️ | MÉDIA     |
+| RF-001 |Chat | ALTA       |
+| RF-002 |Ranking do usuário | MÉDIA     |
+| RF-003 |Adicionar amigos | MÉDIA     |
+| RF-004 |Jogos mais procurados | MÉDIA     |
+| RF-005 |Criação de sala | MÉDIA     |
+| RF-006 |Favoritos | Alta     |
+| RF-007 |Perfil de usuário | Alta     |
+| RF-008 | Filtros | MÉDIA     |
+| RF-009 | Gerenciamento de sala | Baixa     |
+| RF-010 | Fórum | MÉDIA     |
+| RF-011 | Suporte | Alta     |
+| RF-012 | Localização | Baixissima    |
+| RF-013 |Agendar horários | MÉDIA     |
+
 
 ### Requisitos não funcionais
 
 | ID      | Descrição do Requisito                                                              | Prioridade |
 | ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo para rodar em dispositivos móveis ⚠️ EXEMPLO ⚠️ | MÉDIA     |
-| RNF-002 | Deve processar as requisições do usuário em no máximo 3 segundos ⚠️ EXEMPLO ⚠️          | BAIXA      |
-
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Com base nas histórias de usuários, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+| RNF-001 | O sistema deve ser responsivo  | MÉDIA     |
+| RNF-002 | Os links deverão responder em até 5 segundos         | BAIXA      |
+| RNF-003 | Somente as pessoas que compõe o grupo irão desenvolver a página web        | Alta      |
+| RNF-004 | Não é permitido o uso de back-end ou banco de dados        | Alta     |
+| RNF-005 | Suporte 24h         | BAIXA      |
+| RNF-006 | Estabilidade na conexão de Wi-Fi dos players        | Alta     |
+| RNF-007 | Controle de cheatrs e jogadores toxicos      | BAIXA      |
 
 - [Requisitos funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
@@ -92,5 +92,5 @@ O projeto está restrito aos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|001| O projeto deverá ser entregue até o final do semestre ⚠️ EXEMPLO ⚠️ |
-|002| Não é permitido o desenvolvimento de um módulo de back-end  ⚠️ EXEMPLO ⚠️  |
+|001| O projeto deverá ser entregue até o final do semestre  |
+|002| Não é permitido o desenvolvimento de um módulo de back-end  |
