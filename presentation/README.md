@@ -5,7 +5,13 @@
 
 ## Slides
 
-Coloque aqui o conjunto de slides.
+![slide](/docs/images/01.png)
+![slide](/docs/images/02.png)
+![slide](/docs/images/03.png)
+![slide](/docs/images/04.png)
+![slide](/docs/images/05.png)
+![slide](/docs/images/06.png)
+![slide](/docs/images/07.png)
 
 > O arquivo deve estar no formato PDF e conter a apresentação completa do projeto, abordando todos os itens trabalhados nos demais artefatos. 
 
