@@ -12,7 +12,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Função chat          | Me comunicar facilmente com outros usuários      |
 |Administrador       | Poder expulsar usuário    | Ajudar a controlar usuários tóxicos |
-|Usuário do sistema       | Variedades de jogos    | Jogos vários tipos de jogos |
+|Usuário do sistema       | Variedades de jogos    | Jogar vários tipos de jogos |
 |Usuário do sistema     | Conseguir avaliar o meu oponente    | Ajudar na classificação do usuário |
 
 > **Links úteis**:
