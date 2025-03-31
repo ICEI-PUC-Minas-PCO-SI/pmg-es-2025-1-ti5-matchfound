@@ -26,12 +26,13 @@
 
 **✳️✳️✳️ APRESENTE OS DIAGRAMAS DE PERSONAS ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
 > Deve-se relacionar as personas identificadas no projeto, juntamente com os respectivos mapas de empatia. É importante enumerar e descrever de maneira precisa e personalizada todos os principais envolvidos na solução pretendida.
 
 
-![Exemplo de persona](images/exemplo-persona.png)
+![Exemplo de persona](images/p1.png)
+![Exemplo de persona](images/p2.png)
+![Exemplo de persona](images/p3.png)
+![Exemplo de persona](images/p4.png)
 
 
 > **Links úteis**:
