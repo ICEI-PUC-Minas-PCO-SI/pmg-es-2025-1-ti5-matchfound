@@ -54,4 +54,4 @@ Descrição para a tela XPTO
 
 **✳️✳️✳️ COLOQUE AQUI UM IFRAME COM SEU PROTÓTIPO INTERATIVO ✳️✳️✳️**
 
-✅ [Protótipo interativo]([https://www.figma.com/proto/AwXKNqQPB71mZQuohNbn4d/Untitled?node-id=0-1&p=f&t=U0JHsZoMZWviRuRj-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2](https://www.figma.com/proto/AwXKNqQPB71mZQuohNbn4d/Untitled?node-id=11-2428&p=f&t=U0JHsZoMZWviRuRj-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)) 
+✅ [Protótipo interativo]([https://www.figma.com/proto/AwXKNqQPB71mZQuohNbn4d/Untitled?node-id=0-1&p=f&t=U0JHsZoMZWviRuRj-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2](https://www.figma.com/proto/AwXKNqQPB71mZQuohNbn4d/Untitled?node-id=11-2428&p=f&t=U0JHsZoMZWviRuRj-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2) 
