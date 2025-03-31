@@ -59,7 +59,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 | ID      | Descrição do Requisito                                                              | Prioridade |
 | ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo  | MÉDIA     |
+| RNF-001 | O sistema deve ser responsivo  | Alta     |
 | RNF-002 | Os links deverão responder em até 5 segundos         | BAIXA      |
 | RNF-003 | Somente as pessoas que compõe o grupo irão desenvolver a página web        | Alta      |
 | RNF-004 | Não é permitido o uso de back-end ou banco de dados        | Alta     |
