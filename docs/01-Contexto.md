@@ -1,13 +1,10 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O MatchFound é uma proposta de plataforma que facilita a conexão entre jogadores, promovendo interações rápidas e personalizadas para partidas. Seu foco é resolver problemas relacionados à demora para encontrar parceiros e ao desequilíbrio nas partidas, criando um ambiente inclusivo e divertido.
 
 ## Problema
-Aqui, a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-O grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite uma visão completa do problema.
+Jogadores frequentemente enfrentam desafios para encontrar parceiros disponíveis no mesmo momento em que desejam jogar, o que dificulta a participação em jogos que exigem colaboração entre participantes. A disparidade de habilidades entre os jogadores é outra questão comum apontada, além de buscar parceiros de forma ágil, os usuários precisam conhecer ou ter acesso às habilidades de seus companheiros para garantir uma experiência mais equilibrada e satisfatória.
 
 > **Links úteis**:
 > - [Objetivos, problema de pesquisa e justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -16,25 +13,24 @@ O grupo pode optar por fazer uso de ferramentas como Design Thinking, que permit
 
 ## Objetivos
 
-Aqui, você deve descrever os objetivos do trabalho, indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima.
-
-Além disso, apresente alguns (pelo menos 3) objetivos específicos, dependendo de onde você pretende concentrar sua prática investigativa ou como deseja aprofundar seu trabalho.
+- Facilitar que os usuários encontrem parceiros de jogo de forma rápida e eficiente.
+- Aprimorar a experiência do usuário, garantindo maior satisfação ao jogar.
+- Proporcionar, por meio da plataforma, o desenvolvimento e fortalecimento de comunidades voltadas para jogos.
  
 > **Links úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O grupo escolheu trabalhar no MatchFound porque viu uma grande oportunidade de melhorar a experiência dos jogadores. Grande parte dos jogadores tem dificuldade em encontrar parceiros hora certa ou acaba enfrentando partidas desequilibradas, o que prejudica a diversão e a interação. Por isso, o objetivo do projeto é criar uma plataforma que torne esse processo mais rápido, fácil e equilibrado.
+A equipe definiu algumas prioridades para o desenvolvimento da aplicação baseados nas entrevistas externas: ajudar os jogadores a se conectarem de forma mais rápida; incluir ferramentas de personalização; rankings; e garantir um suporte técnico confiável.
 
 > **Links úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação, mas sim oferecer uma visão detalhada do perfil de cada grupo de usuários. Isso inclui informações sobre seu nível de conhecimento prévio, familiaridade com tecnologia, e suas relações hierárquicas ou contextos de uso. Dessa forma, será possível entender melhor as necessidades e expectativas dos diferentes tipos de usuários, garantindo uma experiência mais eficiente e adaptada.
+A aplicação será usada por três tipos principais de usuários. Primeiro, os jogadores casuais que buscam relaxar e socializar. Eles preferem experiências colaborativas e um ambiente acolhedor, onde possam se divertir e fazer novas amizades. Segundo, os competidores dedicados, que têm mais experiência com jogos e participam de torneios. Eles precisam de ferramentas para melhorar suas habilidades, criar conexões com outros jogadores e serem valorizados por suas conquistas. Por fim, há os equilibrados, que querem unir diversão e aprendizado, procurando competições saudáveis e oportunidades de crescimento, tanto no jogo quanto na vida.
 
 > **Links úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
