@@ -6,7 +6,7 @@
 
 `1º semestre/2025`
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+O MatchFound é uma proposta de plataforma que facilita a conexão entre jogadores, promovendo interações rápidas e personalizadas para partidas. Seu foco é resolver problemas relacionados à demora para encontrar parceiros e ao desequilíbrio nas partidas, criando um ambiente inclusivo e divertido.
 
 ## Integrantes
 
