@@ -45,13 +45,13 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | RF-003 |Adicionar amigos | MÉDIA     |
 | RF-004 |Jogos mais procurados | MÉDIA     |
 | RF-005 |Criação de sala | MÉDIA     |
-| RF-006 |Favoritos | Alta     |
-| RF-007 |Perfil de usuário | Alta     |
+| RF-006 |Favoritos | ALTA     |
+| RF-007 |Perfil de usuário | ALTA     |
 | RF-008 | Filtros | MÉDIA     |
-| RF-009 | Gerenciamento de sala | Baixa     |
+| RF-009 | Gerenciamento de sala | BAIXA     |
 | RF-010 | Fórum | MÉDIA     |
-| RF-011 | Suporte | Alta     |
-| RF-012 | Localização | Baixissima    |
+| RF-011 | Suporte | ALTA     |
+| RF-012 | Localização | BAIXISSIMA    |
 | RF-013 |Agendar horários | MÉDIA     |
 
 
@@ -59,12 +59,12 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 | ID      | Descrição do Requisito                                                              | Prioridade |
 | ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo  | Alta     |
+| RNF-001 | O sistema deve ser responsivo  | ALTA     |
 | RNF-002 | Os links deverão responder em até 5 segundos         | BAIXA      |
-| RNF-003 | Somente as pessoas que compõe o grupo irão desenvolver a página web        | Alta      |
-| RNF-004 | Não é permitido o uso de back-end ou banco de dados        | Alta     |
+| RNF-003 | Somente as pessoas que compõe o grupo irão desenvolver a página web        | ALTA      |
+| RNF-004 | Não é permitido o uso de back-end ou banco de dados        | ALTA     |
 | RNF-005 | Suporte 24h         | BAIXA      |
-| RNF-006 | Estabilidade na conexão de Wi-Fi dos players        | Alta     |
+| RNF-006 | Estabilidade na conexão de Wi-Fi dos players        | BAIXA    |
 | RNF-007 | Controle de cheatrs e jogadores toxicos      | BAIXA      |
 
 - [Requisitos funcionais
