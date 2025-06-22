@@ -13,7 +13,6 @@ O MatchFound é uma proposta de plataforma que facilita a conexão entre jogador
 * Bárbara Alexandra Gomes da Silva
 * Gustavo de Oliveira Moutinho
 * João Pedro Gomes da Silva
-* Lucas Silva de Andrade
 * Pedro Henrique Alvares Amaral
 * Tiago Calazans Cruz
 
