@@ -22,8 +22,7 @@ O MatchFound é uma proposta de plataforma que facilita a conexão entre jogador
 
 ## Instruções de utilização
 
-Link da aplicação:
-
+(https://matchfound.netlify.app/)
 
 # Documentação
 
